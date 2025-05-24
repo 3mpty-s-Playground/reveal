@@ -44,4 +44,4 @@ Le projet sera accessible à l'adresse : http://localhost:3000
 ## 📚 Ressources utiles
 
 -   [Documentation de GSAP](https://gsap.com/docs/v3/)
--   [Ma vidéo TikTok du projet](https://www.tiktok.com/@3mpty_x/)
+-   [Ma vidéo TikTok du projet](https://www.tiktok.com/@3mpty_x/video/7504320006704958742?is_from_webapp=1&sender_device=pc&web_id=7460868888696292887)
